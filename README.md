@@ -1,1 +1,1 @@
-# TFG---Dise-o-e-Implementaci-n-de-un-sistema-de-inversi-n-basado-en-el-rango-de-apertura
+# TFG - Diseño e implementación de un sistema de inversión basado en el rango de apertura aplicando procedimientos hombre máquina
